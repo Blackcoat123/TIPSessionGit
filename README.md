@@ -3,7 +3,7 @@
 
 - I am a Third year Computer Science Undergrad
 - Interested in DSA, ML, WebDev and Opensource 
-- You can contact me via Email: luvsharma.del@gmail.com
+- You can contact me via Email: dhanadgupta28@gmail.com
 
 
 <br />
